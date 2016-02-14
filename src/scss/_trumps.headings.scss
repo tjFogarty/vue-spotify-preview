@@ -1,0 +1,35 @@
+// *************************************
+//
+//  Heading trumps
+//
+// *************************************
+
+.u-alpha,
+%u-alpha {
+    @include heading($h1);
+}
+
+.u-beta,
+%u-beta {
+    @include heading($h2);
+}
+
+.u-gamma,
+%u-gamma {
+    @include heading($h3);
+}
+
+.u-delta,
+%u-delta {
+    @include heading($h4);
+}
+
+.u-epsilon,
+%u-epsilon {
+    @include heading($h5);
+}
+
+.u-zeta,
+%u-zeta {
+    @include heading($h6);
+}

@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"location",
+				"locationMarker"
+			],
+			[
+				"com",
+				"com2	style-comment-2"
+			],
+			[
+				"tm",
+				"tmpEvent"
+			],
+			[
+				"lat",
+				"latlng"
+			],
+			[
+				"mdl",
+				"mdl-card__title"
+			],
+			[
+				"mdl-",
+				"mdl-card__title-text"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"cl",
+				"currentLocation"
+			],
+			[
+				"is",
+				"is_updated_entry"
+			],
+			[
+				"local",
+				"local_channel_id"
+			],
+			[
+				"entry",
+				"entry_ids"
+			],
+			[
+				"trial",
+				"trial_id"
+			],
+			[
+				"active",
+				"activeSubjects"
+			],
+			[
+				"complet",
+				"completedVisits"
+			],
+			[
+				"lastSub",
+				"lastSubjectCodeId"
+			],
+			[
+				"tablets",
+				"tabletsBetweenVisits"
+			],
+			[
+				"table",
+				"tabletsBetweenVisits"
+			],
+			[
+				"star",
+				"startCustom"
+			],
+			[
+				"Trial",
+				"TrialApplication"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 168.0,
+		"last_filter": "project sa",
+		"selected_items":
+		[
+			[
+				"project sa",
+				"Project: Save As"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"oprn pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"project mana",
+				"Project Manager: Add Project"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"add pr",
+				"Project Manager: Add Project"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open ",
+				"Project Manager: Open Project"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"project open",
+				"Project Manager: Open Project"
+			],
+			[
+				"open pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"project op",
+				"Project Manager: Open Project"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"pish",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"project manager",
+				"Project Manager: Open Project"
+			],
+			[
+				"add fold",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tjfogarty/Projects/boilerplate"
+	],
+	"file_history":
+	[
+		"/Users/tjfogarty/Projects/vue-wp-api-example/index.php",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/bin/watch-js",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/.babelrc",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/package.json",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/assets/scripts/main.bundle.js",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/bin/compile-js",
+		"/Users/tjfogarty/Projects/vue-wp-api-example/src/scss/main.scss",
+		"/Users/tjfogarty/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/tjfogarty/Projects/level-up/resources/articles.md",
+		"/Users/tjfogarty/Projects/level-up/resources/tutorials.md",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/C32F453A-9A97-43EA-BE8B-8591940E3516/app.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/EDFED695-D109-41B9-AEF8-6250CA19908F/index.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/67D0B32A-F997-4F2E-9506-27E062088519/PB.Gallery.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/2A52D951-7249-41D6-8159-D399CA19526D/main.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/28855240-4F9A-42D9-BDD4-6AA7DD1891F2/jquery.gallery.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/32C19A8C-0968-45AF-B5A0-9ED5FBA68D93/public.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/0BD77917-7B72-47BD-A751-1CD9EA30069E/functions.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/122E0792-1684-4BE3-9D56-5C3424221A50/functions.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/FC7782B0-F5EF-483F-8F50-0E009F887B12/main.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/39304B9B-FB0B-4FAE-9C43-8BD8AE118070/public.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/ABA64961-3904-4F45-9EDC-1F690F90FF7A/Theme.Fancybox.class.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/77B8EA0F-7B75-4FAA-919A-7FC57D4DCEFC/public.js",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/AC8329C9-96DA-4097-8501-0BB1C8DE7CA8/index-beta.html",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/CBE4587A-58EE-4824-8E40-AF2B16313F0C/index-beta.html",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/60432336-E033-463F-AA71-5D21F37985AC/index-beta.html",
+		"/Users/tjfogarty/Projects/winterval-map/assets/scripts/modules/app.js",
+		"/Users/tjfogarty/Desktop/redirects.csv",
+		"/Users/tjfogarty/Projects/winterval-map/_footer.php",
+		"/Users/tjfogarty/Projects/winterval-map/index.php",
+		"/Users/tjfogarty/Projects/winterval-map/assets/events.json",
+		"/Users/tjfogarty/Projects/winterval-map/assets/scss/_components.map-app.scss",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/6111C3EE-8FD8-47AA-8DBB-F3D7C770E660/main.php",
+		"/Users/tjfogarty/Desktop/order_export6.csv",
+		"/Users/tjfogarty/Desktop/order_export5.csv",
+		"/Users/tjfogarty/Desktop/order_export3.csv",
+		"/Users/tjfogarty/Desktop/order_export.csv",
+		"/Users/tjfogarty/Desktop/report-7day-2015-10-08.csv",
+		"/Users/tjfogarty/Desktop/report-year-2015-10-08.csv",
+		"/Users/tjfogarty/Projects/winterval-map/assets/scripts/main.bundle.js",
+		"/Users/tjfogarty/Projects/winterval-map/_header.php",
+		"/Users/tjfogarty/Projects/winterval-map/assets/scripts/modules/map.js",
+		"/Users/tjfogarty/Projects/winterval-map/.jshintrc",
+		"/Users/tjfogarty/Projects/bnm-fss/site/wp-content/themes/emagine/views/suppliers/suppliers.twig",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/666A2A5A-1DD2-442C-BAB7-053C364C5F5A/ajax_mail.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/5F123D88-208F-401C-AF8D-5714E0DE9E2F/ajax_mail.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/mcp.wit_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/config/config.master.php",
+		"/Users/tjfogarty/Projects/mprg/admin/templates/default_site/about.group/team.html",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/views/index.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/models/news.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/models/Pusher.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/vendor/Pusher.php",
+		"/Users/tjfogarty/Projects/mprg/admin/templates/default_site/news.group/index.html",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/libraries/api/Api_channel_entries.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/models/basemodel.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/language/english/lang.wit_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/mod.wit_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_staff_import/models/basemodel.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/views/results.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/upd.wit_staff_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/mod.wit_staff_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_import/mcp.wit_staff_import.php",
+		"/Users/tjfogarty/Projects/mprg/admin/expressionengine/third_party/wit_staff_import/models/news.php",
+		"/Users/tjfogarty/Library/Caches/Cleanup At Startup/Transmit/F6C48AE0-014D-4CC9-9AA0-E1E5F20F61EB/53627b677d96b107fffc1aa9bf2e0b16",
+		"/Users/tjfogarty/Projects/trial-controller/app/Subject.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Group.php",
+		"/Users/tjfogarty/Desktop/4fd17d87f9a4a2f44990c9cd74ff7e83",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/VisitController.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/TesterController.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/trials/index.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/TrialController.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/trials/show.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Trial.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Pharmacy.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/PharmacyController.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/subjects/show.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/visits/edit.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/subjects/edit.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/subjects/create.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/SubjectController.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/trials/create.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/public_html/js/app.js",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/routes.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Http/Controllers/ReportController.php",
+		"/Users/tjfogarty/Projects/trial-controller/config/database.php",
+		"/Users/tjfogarty/Projects/trial-controller/public_html/js/create-trial.js",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/layouts/master.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/trials/edit.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/reports/index.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/User.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/TrialApplication.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/pharmacy/create.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/testers/edit.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/testers/create.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/config/app.php",
+		"/Users/tjfogarty/Projects/chadwicks/site/assets/js/modules/shopping-cart.js",
+		"/Users/tjfogarty/Projects/chadwicks/site/package.json",
+		"/Users/tjfogarty/Projects/trial-controller/app/Visit.php",
+		"/Users/tjfogarty/Projects/trial-controller/public_html/js/edit-visit.js",
+		"/Users/tjfogarty/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tjfogarty/Projects/trial-controller/resources/views/subjects/index.blade.php",
+		"/Users/tjfogarty/Projects/trial-controller/sftp-config.json",
+		"/Users/tjfogarty/Projects/trial-controller/public_html/test.txt",
+		"/Users/tjfogarty/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/tjfogarty/Projects/trial-controller/public/js/create-trial.js",
+		"/Users/tjfogarty/Projects/trial-controller/bootstrap/app.php",
+		"/Users/tjfogarty/Projects/trial-controller/app/Providers/CustomServiceProdvider.php",
+		"/Users/tjfogarty/Projects/trial-controller/public_html/index.php",
+		"/Users/tjfogarty/Projects/trial-controller/server.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response =>",
+			"wpPostList",
+			"response =>",
+			"resource =>",
+			"=>",
+			"<hr>",
+			"<h3>",
+			"fancy",
+			"gallery",
+			"fancyBox",
+			"jquery",
+			"stash",
+			"hover",
+			" /",
+			"https://www.espiongroup.com",
+			"closest",
+			"control",
+			"mapLay",
+			"\"distance\": 0,",
+			"\"transform\"",
+			"\".n\"",
+			"closestEvent",
+			"$data",
+			".$data",
+			"$data.",
+			"$data",
+			"customer_address",
+			"add_fields_diff_row",
+			"customer_name",
+			"name",
+			"wc_settings_tab_order_export",
+			"Name",
+			"show",
+			"showEvent",
+			"_",
+			"tmpEvent",
+			"geometryutil",
+			"tmp",
+			"max",
+			"this",
+			"',",
+			"staff",
+			"Staff",
+			"staff",
+			"news",
+			"getResponse",
+			"valid_entry",
+			"$entry",
+			"entry",
+			"school",
+			"news_image",
+			"/news/",
+			"staff",
+			"_staff_",
+			"group-",
+			"ph",
+			"pharmacy",
+			"group",
+			"upcoming",
+			"visit",
+			"upcoming",
+			"name",
+			"i",
+			"visit",
+			"report",
+			"th",
+			"Start",
+			"completed",
+			"scripts",
+			"false",
+			"var",
+			"visit_date",
+			"YYYY-MM-DD",
+			"yyyy-mm-dd",
+			"carbon",
+			"DD-MM-YYYY",
+			"yyyy-mm-dd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"main.js",
+				"assets/scripts/main.bundle.js"
+			],
+			[
+				"main.bun",
+				"assets/scripts/main.bundle.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"main.scss",
+				"src/scss/main.scss"
+			],
+			[
+				"events",
+				"assets/events.json"
+			],
+			[
+				"app.js",
+				"assets/scripts/modules/app.js"
+			],
+			[
+				"foo",
+				"_footer.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"events.json",
+				"assets/events.json"
+			],
+			[
+				"map-app",
+				"assets/scss/_components.map-app.scss"
+			],
+			[
+				"index.ph",
+				"index.php"
+			],
+			[
+				"app",
+				"assets/scripts/modules/app.js"
+			],
+			[
+				"mapp-ap",
+				"assets/scss/_components.map-app.scss"
+			],
+			[
+				"header",
+				"_header.php"
+			],
+			[
+				"footer",
+				"_footer.php"
+			],
+			[
+				"config.master",
+				"admin/config/config.master.php"
+			],
+			[
+				"about.group",
+				"admin/templates/default_site/about.group/team.html"
+			],
+			[
+				"wit_import",
+				"admin/expressionengine/third_party/wit_import/mcp.wit_import.php"
+			],
+			[
+				"basemode",
+				"admin/expressionengine/third_party/wit_staff_import/models/basemodel.php"
+			],
+			[
+				"news.php",
+				"admin/expressionengine/third_party/wit_staff_import/models/news.php"
+			],
+			[
+				"trialindex",
+				"resources/views/trials/index.blade.php"
+			],
+			[
+				"group.php",
+				"app/Group.php"
+			],
+			[
+				"subjec",
+				"app/Subject.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"trialcontroller",
+				"app/Http/Controllers/TrialController.php"
+			],
+			[
+				"trialshow",
+				"resources/views/trials/show.blade.php"
+			],
+			[
+				"trialcontro",
+				"app/Http/Controllers/TrialController.php"
+			],
+			[
+				"testerco",
+				"app/Http/Controllers/TesterController.php"
+			],
+			[
+				"pharmac",
+				"app/Http/Controllers/PharmacyController.php"
+			],
+			[
+				"pharm",
+				"app/Pharmacy.php"
+			],
+			[
+				"subjectshow",
+				"resources/views/subjects/show.blade.php"
+			],
+			[
+				"trial.php",
+				"app/Trial.php"
+			],
+			[
+				"subject.php",
+				"app/Subject.php"
+			],
+			[
+				"trialcont",
+				"~/Projects/trial-controller/app/Http/Controllers/TrialController.php"
+			],
+			[
+				"visit",
+				"app/Http/Controllers/VisitController.php"
+			],
+			[
+				"visitedit",
+				"resources/views/visits/edit.blade.php"
+			],
+			[
+				"subjectedit",
+				"resources/views/subjects/edit.blade.php"
+			],
+			[
+				"trialcreate",
+				"resources/views/trials/create.blade.php"
+			],
+			[
+				"subjectcreate",
+				"resources/views/subjects/create.blade.php"
+			],
+			[
+				"subjectcontr",
+				"app/Http/Controllers/SubjectController.php"
+			],
+			[
+				"subjectcontro",
+				"app/Http/Controllers/SubjectController.php"
+			],
+			[
+				"trialcon",
+				"app/Http/Controllers/TrialController.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"report",
+				"app/Http/Controllers/ReportController.php"
+			],
+			[
+				"database.php",
+				"config/database.php"
+			],
+			[
+				"create-trial.js",
+				"public_html/js/create-trial.js"
+			],
+			[
+				"create-",
+				"public_html/js/create-trial.js"
+			],
+			[
+				"reportindex",
+				"resources/views/reports/index.blade.php"
+			],
+			[
+				"subject",
+				"app/Http/Controllers/SubjectController.php"
+			],
+			[
+				"reportsindex",
+				"resources/views/reports/index.blade.php"
+			],
+			[
+				"reportcon",
+				"app/Http/Controllers/ReportController.php"
+			],
+			[
+				"ap.js",
+				"public_html/js/app.js"
+			],
+			[
+				"master.blade",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"subjectcon",
+				"app/Http/Controllers/SubjectController.php"
+			],
+			[
+				"trialcreate.php",
+				"resources/views/trials/create.blade.php"
+			],
+			[
+				"trialedit",
+				"resources/views/trials/edit.blade.php"
+			],
+			[
+				"visitcontro",
+				"app/Http/Controllers/VisitController.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"trial.hpp",
+				"app/Trial.php"
+			],
+			[
+				"sub",
+				"app/Subject.php"
+			],
+			[
+				"create-trial.",
+				"public_html/js/create-trial.js"
+			],
+			[
+				"visitoc",
+				"app/Http/Controllers/VisitController.php"
+			],
+			[
+				"subjectindex",
+				"resources/views/subjects/index.blade.php"
+			],
+			[
+				"trialcontr",
+				"app/Http/Controllers/TrialController.php"
+			],
+			[
+				"visitcontroll",
+				"app/Http/Controllers/VisitController.php"
+			],
+			[
+				"configapp",
+				"config/app.php"
+			],
+			[
+				"trialcreate.",
+				"resources/views/trials/create.blade.php"
+			],
+			[
+				"trialcontroller.php",
+				"app/Http/Controllers/TrialController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

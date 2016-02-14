@@ -1,0 +1,1 @@
+node_modules/.bin/browser-sync reload --url http://localhost:8000 --files='assets/*'

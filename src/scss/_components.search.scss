@@ -1,0 +1,37 @@
+.c-search-container {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.c-search {
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  width: 100%;
+  background: rgba(0, 0, 0, .6);
+}
+
+.c-search__input {
+  border: none;
+  outline: none;
+  color: #fff;
+  width: 70%;
+  font-size: 14px;
+  background: transparent;
+  border-bottom: 1px solid #ccc;
+}
+
+.c-search__message {
+  color: #fff;
+  font-size: 12px;
+}
+
+.c-search__submit {
+  font-size: 14px;
+  border: none;
+  background: none;
+  color: #fff;
+}

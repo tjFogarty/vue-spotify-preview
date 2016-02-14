@@ -1,0 +1,106 @@
+// *************************************
+//
+//   Style manifest file
+//   -> Author: Emagine Media
+//
+//   The general idea is to increase in specificity
+//   as we go further down the list.
+//
+//   1. Settings
+//      -> Variables, like font sizes, colours...
+//
+//   2. Tools
+//      -> Mixins and functions, no styles yet
+//
+//   3. Generic - nothing too specific
+//      -> Base level resets, box sizing
+//
+//   4. Elements
+//      -> Target individual elements, no classes just type selectors
+//
+//   5. Objects
+//      -> Design patterns, not style-specific
+//         Examples would be grids, or layout patterns
+//
+//   6. Components
+//      -> Ok, you can start styling the UI now
+//
+//   7. Themes
+//      -> Completely optional - theme your components
+//
+//   8. Trumps/Utilities
+//      -> Overrides and helpers
+//         e.g. text-aligns, widths, floats, display...
+//
+//   9. Vendor
+//     -> Third-party libraries
+//
+//  10. Shame
+//    -> Quick fixes/hacks. Keep them all in once place
+//       so you can keep track, and come back to them later
+//
+// *************************************
+
+
+// -------------------------------------
+//   1. Settings
+// -------------------------------------
+
+@import "settings.defaults";
+@import "settings.colours";
+
+// -------------------------------------
+//   2. Tools - Mixins, functions...
+// -------------------------------------
+
+@import "tools.clearfix";
+@import "tools.functions";
+@import "tools.mixins";
+
+// -------------------------------------
+//   3. Generic
+// -------------------------------------
+
+@import "generic.box-sizing";
+@import "generic.reset";
+
+// -------------------------------------
+//   4. Elements - Base styles, no classes
+// -------------------------------------
+
+@import "elements.page"; 
+@import "elements.images";
+  
+// -------------------------------------
+//   5. Objects - Design patterns
+// -------------------------------------
+   
+@import "objects.layout";
+
+// -------------------------------------
+//   6. Components - UI Styles    
+// -------------------------------------
+
+@import "components.phone";
+@import "components.player";
+@import "components.search";
+
+// -------------------------------------
+//   7. Themes
+// -------------------------------------
+
+// -------------------------------------
+//   8. Trumps
+// -------------------------------------
+ 
+ @import "trumps.visibility"; 
+
+// -------------------------------------
+//   9. Vendor
+// -------------------------------------
+
+// -------------------------------------
+//  10.  SHAAAAMMMEEE
+// ------------------------------------
+
+@import "shame";

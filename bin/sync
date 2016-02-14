@@ -1,0 +1,1 @@
+node_modules/.bin/browser-sync start --server --xip --files 'assets/css/*.css, assets/scripts/*.js, *.php, *.html, *.twig'

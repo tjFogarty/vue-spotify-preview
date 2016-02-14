@@ -1,0 +1,132 @@
+
+.c-player {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+
+.c-player__play,
+.c-player__pause {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.c-player__play {
+  width: 12px;
+  height: 16px;
+  border-top: 8px solid transparent;
+  border-left: 12px solid #fff;
+  border-bottom: 8px solid transparent;
+}
+
+.c-player__pause {
+  width: 12px;
+  height: 16px;
+  border-right: 4px solid #fff;
+  border-left: 4px solid #fff;
+}
+
+.c-player__album-preview {
+  max-width: 50px;
+  margin-right: 20px;
+} 
+
+.c-player__current {
+  position: relative;
+  flex: 0 0 10%;
+  min-height: 300px;
+  overflow: hidden;
+}
+
+.c-player__controls {
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  bottom: 0;
+  left: 0;
+  padding: 12px;
+  width: 100%;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.c-player__artist-image {
+  display: block;
+  width: 100%;
+}
+
+.c-player__playlist {
+  overflow: scroll;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.c-player__playlist-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px 25px;
+  border-bottom: 1px solid #333;
+  background: #222;
+  transition: all ease .3s;
+
+  &:hover {
+    background: #000;
+  }
+}
+
+.c-player__playlist-item-title {
+  color: #fff; 
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.c-player__playlist-item-subtitle {
+  font-size: 10px;
+  color: #999;
+}
+
+.album-drop-in-transition {
+  transition: opacity ease .3s, transform ease .3s;
+  transform: translateY(0);
+  opacity: 1;  
+}
+
+.album-drop-in-enter,
+.album-drop-in-leave {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+input[type=range]{
+    -webkit-appearance: none;
+    background: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #fff;
+    margin-top: -5px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
