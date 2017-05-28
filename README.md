@@ -1,5 +1,7 @@
 # Vue + Spotify Preview
 
+This project uses Vue 1. [There's also a a Vue 2 version.](https://github.com/tjFogarty/vue-spotify-preview-v2)
+
 A small experiment for me to try and put together what I've learned when working with Vue.js.
 
 [Demo](http://codepen.io/tjFogarty/pen/RrvMBO/)
